@@ -6,3 +6,4 @@ pytest==3.0.1
 pytest-cov==2.3.1
 pytest-flask==0.10.0
 python-editor==1.0.1
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
